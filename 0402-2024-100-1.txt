@@ -1,0 +1,11 @@
+This is function bic-g 
+This is run 1 
+This is function bic-g 
+This is run 1 
+This is function bic-g 
+This is run 1 
+Time difference of 2.150228 mins
+[1] "Score_result"
+[1] -58729.49
+     [,1] [,2] [,3] [,4]   [,5]   [,6]   [,7]   [,8]   [,9]
+[1,]    6 9339  385  170 0.0153 0.0341 0.9439 0.0211 0.4972
